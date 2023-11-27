@@ -1,0 +1,20 @@
+**Log on to dopedevelopers.com/category/source-codes/ for more projects!***
+
+**Database Name: rposystem**
+
+**Developed by   Danstan Aleko**
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: codeastro.com
+
+**Cashier Login Details**
+
+Email	: cashier@mail.com
+Password: codeastro.com
+
+
