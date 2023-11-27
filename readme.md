@@ -1,5 +1,5 @@
 **Log on to dopedevelopers.com/category/source-codes/ for more projects!***
-
+"resturant management system fudud waxa u bahantahay inaa taqaanid css , scss , javascript databasekana uu wataa isticmaal xampp server ama wampp server "
 **Database Name: rposystem**
 
 **Developed by   clraxmaan hero**
