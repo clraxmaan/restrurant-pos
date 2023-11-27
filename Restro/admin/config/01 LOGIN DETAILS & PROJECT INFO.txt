@@ -2,7 +2,7 @@
 
 **Database Name: rposystem**
 
-**Developed by Danstan Aleko**
+**Developed by clraxmaan hero**
 
 **Recommended PHP Version 7.4**
 
